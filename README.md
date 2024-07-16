@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madATsciENce
-- 👀 I’m interested in making new creative app
-- 🌱 I’m currently learning app development
+- 👀 I’m interested in making new creative things using AI
+- 🌱 I’m currently learning python libraries
 - 💞️ I’m looking to collaborate on ahh! idk
 - 📫 you can reach me if u want
 - 
