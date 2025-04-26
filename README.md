@@ -3,7 +3,7 @@
 - 🌱 Currently learning web dev,python libraries
 - 💞️ I’m looking to collaborate on ah! idk
 - 📫 you can reach me if u want (instagram ig or discord)
-- 🌌
+- 🌌Dev madlass
 
 <!---
 madATsciENce/madATsciENce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
