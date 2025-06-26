@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me
-- 🧑‍💻 Currently pursuing **Computer Applications** (but diving deep into CS-core subjects on the side).
+- 💻 Currently pursuing **Computer Applications** (but diving deep into CS-core subjects on the side).
 - 🧠 Passionate about **AI, Machine Learning, Cloud, DSA**, and all things futuristic.
 - 🛠️ Building cool projects like an **AI-Powered Code Explainer**.
 - 📸 Also working on an  **CS meme page** (because why not?).
