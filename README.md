@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY5aHU5Y3g4cWcxenRycTdkazFudGVyMmEzbWM5dmJoMnRqNjBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQHDtnUZ7gxI4/giphy.gif)" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY5aHU5Y3g4cWcxenRycTdkazFudGVyMmEzbWM5dmJoMnRqNjBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQHDtnUZ7gxI4/giphy.gif" width="250"/>
 </p>
+
 <h1 align="center">Hey, I’m Sus 👋</h1>
 
 <p align="center">
